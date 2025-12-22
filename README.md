@@ -1,12 +1,10 @@
-# 🎯 Assignment-07 - Customer Support Zone
+# 🎯 B12A7 - Customer Support Zone
 
 A modern React application built with Vite, featuring fast refresh and ESLint configuration for optimal development experience.
 
-## 🔗 Live Demo
+**Live Site:** [https://a7b12-customer-support-zone.netlify.app/]
 
-**Live Site:** [https://customer-support-zone-991.netlify.app/](https://customer-support-zone-991.netlify.app/)
-
-**GitHub Repository:** [https://github.com/st-shourov12/Assignment-07](https://github.com/st-shourov12/Assignment-07)
+**GitHub Repository:** [https://github.com/raihan2019/B12A7-Customer-Support-Zone.git]
 
 ---
 ## ✨ Key Features
@@ -65,13 +63,13 @@ Before you begin, ensure you have the following installed on your PC:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/st-shourov12/Assignment-07.git
+git clone 
 ```
 
 ### Step 2: Navigate to Project Directory
 
 ```bash
-cd Assignment-07
+cd B12A7-Customer-Support-Zone
 ```
 
 ### Step 3: Install Dependencies
@@ -202,7 +200,7 @@ pnpm lint
 ## 📁 Project Structure
 
 ```
-Assignment-07/
+B12A7-Customer-Support-Zone/
 ├── node_modules/          # Installed dependencies (auto-generated)
 ├── public/                # Static assets
 ├── src/                   # Source code
@@ -378,16 +376,6 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 👨‍💻 Author
-
-**MD. Mirazul Islam Shourov**
-
-- GitHub: [@st-shourov12](https://github.com/st-shourov12)
-- Email: shourovsc38@gmail.com
-- Facebook: [mirazulislam.shourov](https://www.facebook.com/mirazulislam.shourov)
 
 ---
 
