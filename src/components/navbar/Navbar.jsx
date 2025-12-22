@@ -21,7 +21,7 @@ const Navbar = () => {
                             <li><a>Contact</a></li>
                         </ul>
                     </div>
-                    <a className="text-xl 2xl:font-medium">CS — Ticket System</a>
+                    <a className="text-xl 2xl:font-bold">CS — Ticket System</a>
                     
                 </div>
                 <div className="navbar-end flex">
