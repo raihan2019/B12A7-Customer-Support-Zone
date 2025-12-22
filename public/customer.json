@@ -1,0 +1,111 @@
+[
+  {
+    "id": "TKT-01",
+    "title": "Login not working",
+    "description": "Customer unable to log into the system.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": "TKT-02",
+    "title": "Payment issue",
+    "description": "Payment not processed but money deducted.",
+    "customer": "Jane Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": "TKT-03",
+    "title": "Feature request",
+    "description": "Customer requested dark mode feature.",
+    "customer": "Mike Johnson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": "TKT-04",
+    "title": "App crash on startup",
+    "description": "Mobile app crashes immediately after launching.",
+    "customer": "Alice Green",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": "TKT-05",
+    "title": "Email not received",
+    "description": "Customer not receiving any email notifications.",
+    "customer": "Bob Martin",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": "TKT-06",
+    "title": "Password reset issue",
+    "description": "Reset password link expired too quickly.",
+    "customer": "Sara Lee",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": "TKT-07",
+    "title": "Invoice mismatch",
+    "description": "Invoice total does not match cart total.",
+    "customer": "David Clark",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": "TKT-08",
+    "title": "Slow performance",
+    "description": "Website is very slow during peak hours.",
+    "customer": "Emma Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-09",
+    "title": "Error 500 on checkout",
+    "description": "Server error when trying to checkout.",
+    "customer": "Liam Brown",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-10",
+    "title": "Language translation issue",
+    "description": "French translation is incomplete in settings page.",
+    "customer": "Sophia Davis",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-26"
+  },
+  {
+    "id": "TKT-11",
+    "title": "UI bug on dashboard",
+    "description": "Charts not rendering correctly on mobile view.",
+    "customer": "Noah White",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-26"
+  },
+  {
+    "id": "TKT-12",
+    "title": "Subscription cancel failed",
+    "description": "Customer cannot cancel subscription via profile page.",
+    "customer": "Olivia Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-27"
+  }
+]
+
