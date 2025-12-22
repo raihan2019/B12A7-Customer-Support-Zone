@@ -23,7 +23,7 @@ const Tickets = ({customerPromise,handleTaskStatus,countProgress ,cardInfo,setCa
     }
     
     return (
-        <div className='grid gap-5 xl:gap-20 px-5 2xl:px-20 pb-10  xl:px-10 xl:grid-cols-3 md:grid-cols-2 mb-4'>
+        <div className='grid gap-5 xl:gap-4 px-5 2xl:px-20 pb-10  xl:px-10 xl:grid-cols-3 md:grid-cols-2 mb-4'>
             <div className="md:col-span-2">
               <div className='gap-5 xl:gap-10 grid md:grid-cols-2 items-center'> 
                {
